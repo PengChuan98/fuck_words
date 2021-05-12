@@ -1,3 +1,3 @@
 # FUCK_WORLDS
 
->>> a sorftware that 
+>> a sorftware that 
